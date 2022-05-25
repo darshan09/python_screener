@@ -9,4 +9,4 @@ This project works well with indian stocks listed in NSE, Yahoo finance is used 
 to fetch data for indian stocks from yfinance, we need to pass stock symbol with'.NS'.
 for eg- to ftech data of ACC we need to pass ACC.NS.
 
-Code takes care of everything, in order to fetch USA stocks you do not need to pass stock symbol with '.NS'
+In order to fetch USA stocks you do not need to pass stock symbol with '.NS'
