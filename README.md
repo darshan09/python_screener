@@ -1,5 +1,5 @@
 # python_screener
-THis project is web based technical screener for candle stick patterns using TA-LIB. python and Flask.
+This project is web based technical screener for candle stick patterns using TA-LIB, plotly and Flask.
 
 To run the project
 - Clone the repositiory
