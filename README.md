@@ -3,7 +3,7 @@ THis project is web based technical screener for candle stick patterns using TA-
 
 To run the project
 - Clone the repositiory
-- run "FLASK-RUN" opn working directory.
+- run "FLASK-RUN" in main directory.
 
 This project works well with indian stocks listed in NSE, Yahoo finance is used to fetch historical data.
 to fetch data for indian stocks from yfinance, we need to pass stock symbol with'.NS'.
